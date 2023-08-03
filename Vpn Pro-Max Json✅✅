@@ -71,10 +71,14 @@
 {
          "name": "15. 🇹🇭Thailand ( Dtac+True ) VIP-15",
          "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/server15.ovpn"
+      },
+{
+         "name": "16. 🇹🇭Thailand ( Dtac+True ) VIP-16",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-VIP%20-16%20n.ovpn"
       }
 
    ],
 "message":"🚀 Update version - 34 \n• 🇸🇬Singapore\n• 🇹🇭Thailand(🎮) \n•Thank for using our app🙆 ",
    "title":"Do you want to update?",
-   "version": 33
+   "version": 34
 }
