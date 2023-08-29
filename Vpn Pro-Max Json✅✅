@@ -21,8 +21,8 @@
       },
 
 {
-         "name": "04. 🇸🇬Singapore (Dtac & True) VIP-4",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/ubuntu-s-VIP-03.ovpn"
+         "name": "04. 🇸🇬Singapore (Ais) VIP-4",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/ubuntu-s-VIP-06%20AIS.ovpn"
       },
 
 {
@@ -56,8 +56,8 @@
       },
 
 {
-         "name": "12. 🇹🇭Thailand ( Dtac+True ) VIP-12",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/%F0%9F%8E%AE.ovpn"
+         "name": "12. 🇹🇭Thailand ( Ais ) VIP-12",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-11-VIP-AIS.ovpn"
       },
 
 {
@@ -83,10 +83,17 @@
 {
          "name": "18. 🇹🇭Thailand ( Dtac+True ) VIP-18",
          "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-VIP%20-18-16%20new.ovpn"
+      },
+{
+         "name": "19. 🇹🇭Thailand ( Dtac+True ) VIP-19",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-VIP-19-%20(DTAC-True)T.ovpn"
+      },
+{
+         "name": "20. 🇹🇭Thailand ( Dtac+True ) VIP-20",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-VIP-20-AIS.ovpn"
       }
-
    ],
-"message":"🚀 Update version - 37 \n• 🇸🇬Singapore\n• 🇹🇭Thailand(🎮) \n•Thank for using our app🙆 ",
+"message":"🚀 Update version - 38 \n• 🇸🇬Singapore\n• 🇹🇭Thailand(🎮) \n•Thank for using our app🙆 ",
    "title":"Do you want to update?",
    "version": 37
 }
