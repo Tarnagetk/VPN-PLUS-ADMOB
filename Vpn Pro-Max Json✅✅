@@ -12,7 +12,7 @@
 
 {
          "name": "02. 🇸🇬Singapore (Dtac & True) VIP-2",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/05-SG_Vip%20Dtac%20shopee.ovpn"
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/05-SG_Vip%20Dtac%20line.ovpn"
       },
 
 {
@@ -31,7 +31,7 @@
       },
 {
          "name": "06. 🇸🇬Singapore (Dtac & True) Free-6",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/06.Vpnplus-Free.ovpn"
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/06-SG_Vip%20Dtac%20line.ovpn"
       },
 {
          "name": "07. 🇸🇬Singapore (Dtac & True) VIP-7",
@@ -52,7 +52,7 @@
       },
 {
          "name": "11. 🇹🇭Thailand ( Dtac+True ) VIP-11",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/11-TH_Vip%20Dtac%20shopee.ovpn"
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/11-TH_Vip%20Dtac%20line.ovpn"
       },
 
 {
@@ -95,5 +95,5 @@
    ],
 "message":"🚀 Update version - 42 \n• 🇸🇬Singapore\n• 🇹🇭Thailand(🎮)\n•Updateကိုနှိပ်ပေးကြပါ🔥 \n•Thank for using our app🙆 ",
    "title":"Do you want to update?",
-   "version": 41
+   "version": 42
 }
