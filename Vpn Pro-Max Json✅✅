@@ -23,7 +23,7 @@
 
 {
          "name": "TH TRUE-NoPRO 3",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
+      "url": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
       },
 
 {
