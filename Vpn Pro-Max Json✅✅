@@ -22,8 +22,8 @@
       },
 
 {
-         "name": "TH TRUE-NoPRO 3",
-      "url": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
+         "name": "03. TH-(Dtac & True)-VIP-3",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH-GAME-10-03.ovpn"
       },
 
 {
@@ -65,5 +65,5 @@
    ],
 "message":"🚀 Update version - 30 \n• 🇸🇬Singapore-4(free)\n• 🇹🇭Thailand-2(🎮) \n•Thank for using our app🙆 ",
    "title":"Do you want to update?",
-   "version": 32
+   "version": 30
 }
