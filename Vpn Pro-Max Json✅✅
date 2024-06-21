@@ -1,99 +1,192 @@
+piratevpn
+═════════•°•⚠️•°•═════════
 
 
 {
-   "files": [  
-
-
-{
-         "name": "01. 🇸🇬Singapore (Dtac & True)VIP-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg1.ovpn"
-      },
-
-
-{
-         "name": "02. 🇸🇬Singapore (Dtac&Line) VIP-2",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/05-SG_Vip%20Dtac%20line.ovpn"
-      },
-
-{
-         "name": "03. 🇸🇬Singapore (Dtac&Line) VIP-3",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/06-SG_Vip%20Dtac%20shopee.ovpn"
-      },
-
-{
-         "name": "04. 🇸🇬Singapore (True YouTube) VIP-4",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/05-SG_Vip%20Dtac%20line.ovpn"
-      },
-
-{
-         "name": "05. 🇸🇬Singapore (True YouTube) VIP-5",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/06-SG_Vip%20Dtac%20shopee.ovpn"
-      },
-{
-         "name": "06. 🇸🇬Singapore (Dtac & True) Free-6",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/06-SG_Vip%20Dtac%20line.ovpn"
-      },
-{
-         "name": "07. 🇸🇬Singapore (Dtac & True) VIP-7",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/SG-VIP%2007%20tar.ovpn"
-      },
-{
-         "name": "08. 🇹🇭Thailand ( Dtac ) VIP-8",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/TH-%F0%9F%8E%AEt.ovpn"
-      },
-
-{
-         "name": "09. 🇹🇭Thailand ( True ) VIP-9",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPS-Vip-only/main/TH-%F0%9F%8E%AEt.ovpn"
-      },
-{
-         "name": "10. 🇹🇭Thailand ( Dtac+True ) VIP-10",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH-GAME-10-03.ovpn"
-      },
-{
-         "name": "11. 🇹🇭Thailand ( Dtac+True ) VIP-11",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/11-TH_Vip%20Dtac%20line.ovpn"
-      },
-
-{
-         "name": "12. 🇹🇭Thailand ( Ais ) VIP-12",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-11-VIP-AIS.ovpn"
-      },
-
-{
-         "name": "13. 🇹🇭Thailand ( Dtac+True ) VIP-13",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/013-TH_Vip.ovpn"
-      },
-{
-         "name": "14. 🇹🇭Thailand ( Dtac+True ) VIP-14",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/CSK%20VIP-14.ovpn"
-      },
-{
-         "name": "15. 🇹🇭Thailand ( Dtac+True ) VIP-15",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/server15.ovpn"
-      },
-{
-         "name": "16. 🇹🇭Thailand ( Dtac) VIP-16",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/18-TH_Vip%20Dtac%20shopee.ovpn"
-      },
-{
-         "name": "17. 🇹🇭Thailand ( AIS ) VIP-16",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-VIP%20-16%20-AIS-SIM%20OK.ovpn"
-      },
-{
-         "name": "18. 🇹🇭Thailand ( Dtac ) VIP-18",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/18-TH_Vip%20Dtac%20shopee.ovpn"
-      },
-{
-         "name": "19. 🇹🇭Thailand ( Dtac ) VIP-19",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/19-TH_Vip%20Dtac%20shopee.ovpn"
-      },
-{
-         "name": "20. 🇹🇭Thailand (True) VIP-20",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/19-TH_Vip%20True%20shopee%20yotube.ovpn"
-      }
-   ],
-"message":"🚀 Update version - 42 \n• 🇸🇬Singapore\n• 🇹🇭Thailand(🎮)\n•Updateကိုနှိပ်ပေးကြပါ🔥 \n•Thank for using our app🙆 ",
-   "title":"Do you want to update?",
-   "version": 42
+  "version": "1.58",
+  "message": "ควรสมัครเน็ตกันรั่วของซิมทรู เวลา server มีการ update จะได้ไม่มีปัญหาในการโหลดแพทของแอพ จะได้ใช้งานได้ต่อเนื่องไม่มีต่อไม่ติด สมัครกันรั่วซิมทรูกด กด *900*8131# 30บ. ไม่รวม Vat ความเร็ว 64 Kbps 30 วัน ตกวันละบาท",
+  "data": [
+    {
+      "name": "TH TRUE NoPro 1",
+      "detail": "wanghin-tot-games.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=wanghin-tot-games.thai-vpn.com&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 2",
+      "detail": "readyidc-5.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-1.thaivpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 3",
+      "detail": "readyidc-6.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-2.thaivpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 4",
+      "detail": "readyidc-7.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-3.thaivpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 5",
+      "detail": "readyidc-8.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-4.thaivpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 6",
+      "detail": "inspace-1.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-5.thaivpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 7",
+      "detail": "inspace-2.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-1.siamvpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 8",
+      "detail": "bangmod-1.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-2.siamvpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 9",
+      "detail": "inspace-3.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-3.siamvpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 10",
+      "detail": "inspace-6.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-4.siamvpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 11",
+      "detail": "inspace-7.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-5.siamvpn.uk&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 12",
+      "detail": "inspace-11.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-1.true-no-pro.uk&path=ray"
+    },
+    {
+      "name": "TH-1 TRUE Facebook Gaming",
+      "detail": "x1.a5f3.watputschool.ac.th",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@wanghin-tot-games.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-2 TRUE Facebook Gaming",
+      "detail": "x2.a5f3.watputschool.ac.th",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@readyidc-5.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-3 TRUE Facebook Gaming",
+      "detail": "x3.a5f3.watputschool.ac.th",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@readyidc-6.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-4 TRUE Facebook Gaming",
+      "detail": "x4.a5f3.watputschool.ac.th",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@readyidc-7.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-5 TRUE Facebook Gaming",
+      "detail": "x5.a5f3.watputschool.ac.th",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@readyidc-8.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-6 TRUE Facebook Gaming",
+      "detail": "x6.a5f3.watputschool.ac.th",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-7 TRUE Facebook Gaming",
+      "detail": "x7.a5f3.watputschool.ac.th",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-2.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-8 TRUE Facebook Gaming",
+      "detail": "bangmod-1.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@bangmod-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-9 TRUE Facebook Gaming",
+      "detail": "inspace-3.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-10 TRUE Facebook Gaming",
+      "detail": "inspace-6.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-6.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-11 TRUE Facebook Gaming",
+      "detail": "inspace-7.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-7.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-12 TRUE Facebook Gaming",
+      "detail": "inspace-11.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-11.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH AIS-Play 1",
+      "detail": "readyidc-5.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@readyidc-5.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 2",
+      "detail": "readyidc-5.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@readyidc-5.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 3",
+      "detail": "readyidc-6.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@readyidc-6.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 4",
+      "detail": "bangmod-3.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@readyidc-7.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 5",
+      "detail": "wanghin-tot-games.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@readyidc-8.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 6",
+      "detail": "inspace-1.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 7",
+      "detail": "inspace-2.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-2.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 8",
+      "detail": "bangmod-1.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-2.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 9",
+      "detail": "inspace-3.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-3.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 10",
+      "detail": "inspace-6.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-6.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 11",
+      "detail": "inspace-7.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-7.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 12",
+      "detail": "inspace-11.thai-vpn.com",
+      "content": "vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@inspace-11.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    }
+  ]
 }
+
+═════════•°•⚠️•°•═════════
