@@ -6,7 +6,7 @@
 
 {
          "name": "01. SG-(Dtac & True)-VIP-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg1.ovpn"
+         "url": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@inspace-nut-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
       },
 
 
