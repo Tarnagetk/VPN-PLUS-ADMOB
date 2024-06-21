@@ -1,20 +1,69 @@
 
-      "name": "TH TRUE NoPro 7",
 
-vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-1.siamvpn.uk&path=ray
+{
+   "files": [  
 
-      "name": "TH TRUE NoPro 8",
 
-vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-2.siamvpn.uk&path=ray
+{
+         "name": "01. SG-(Dtac & True)-VIP-1",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg1.ovpn"
+      },
 
-      "name": "TH TRUE NoPro 9",
 
-vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-3.siamvpn.uk&path=ray
+{
+         "name": "02. TH-(Dtac)-VIP-2",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/11-TH_Vip%20Dtac%20line.ovpn"
+      },
 
-      "name": "TH TRUE NoPro 10",
 
-vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-4.siamvpn.uk&path=ray
+{
+         "name": "12. TH-(Ais)-VIP-12",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-VIP-20-AIS.ovpn"
+      },
 
-      "name": "TH TRUE NoPro 11",
+{
+         "name": "03. TH-(Dtac & True)-VIP-3",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH-GAME-10-03.ovpn"
+      },
 
-vless://e29b8ccc-970c-47a9-8a7b-a99586fdf281@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=true-5.siamvpn.uk&path=ray
+{
+         "name": "04. SG-(Dtac & True)-VIP-4",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/05-SG_Vip%20Dtac%20line.ovpn"
+      },
+{
+         "name": "05. SG-(Dtac & True)-VIP-5",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/06-SG_Vip%20Dtac%20line.ovpn"
+      },
+
+{
+         "name": "06. 🇹🇭TH-( Dtac+True ) VIP-06",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH.Game.NEWS.VIP%3D01.ovpn"
+      },
+
+{
+         "name": "07. TH-(Ais)-VIP-7",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-11-VIP-AIS.ovpn"
+      },
+
+{
+         "name": "08. TH-(Dtac & True)-VIP-8",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/CSK%20VIP-14.ovpn"
+      },
+{
+         "name": "09. 🇹🇭Thailand ( Dtac+True ) VIP-09",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/server15.ovpn"
+      },
+{
+         "name": "10. 🇹🇭Thailand ( Dtac+True ) VIP-10",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/18-TH_Vip%20Dtac%20shopee.ovpn"
+      },
+{
+         "name": "11. 🇹🇭Thailand ( Dtac+True ) VIP-11",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/19-TH_Vip%20Dtac%20shopee.ovpn"
+      }
+
+   ],
+"message":"🚀 Update version - 30 \n• 🇸🇬Singapore-4(free)\n• 🇹🇭Thailand-2(🎮) \n•Thank for using our app🙆 ",
+   "title":"Do you want to update?",
+   "version": 30
+}
