@@ -1,101 +1,69 @@
+
+
 {
-  "version": 1.53,
-  "message": "ถ้ากดเชื่อมต่อไม่ได้ กรุณากด อัพเดท  ควรสมัครกันรั่วของซิมทรู จะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ.ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
-  "data": [
-    {
-      "name": "TH TRUE-NoPRO 1",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=1byte-1.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH TRUE-NoPRO 2",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-1.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH TRUE-NoPRO 3",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-2.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH TRUE-NoPRO 4",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=inspace-nut-4.misterpnut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH TRUE-NoPRO 5",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=true-1.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH TRUE-NoPRO 6",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=true-2.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH TRUE-NoPRO 7",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=true-3.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH TRUE-NoPRO 8",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@true-nopro.misterpnut.uk:80/?type=ws&encryption=none&host=true-4.misternut.uk&path=%2Fray"
-    },
-    {
-      "name": "TH-1 TRUE-FB Gaming",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@1byte-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-2 TRUE-FB Gaming",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@inspace-nut-1.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-3 TRUE-FB Gaming",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@inspace-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-4 TRUE-FB Gaming",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@inspace-nut-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-5 TRUE-FB Gaming",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@bangmod-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-6 TRUE-FB Gaming",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@mcloud-nut-2.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-7 TRUE-FB Gaming",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@mcloud-nut-3.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH-8 TRUE-FB Gaming",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@mcloud-nut-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
-    },
-    {
-      "name": "TH AIS-AisPlay 1",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@1byte-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    },
-    {
-      "name": "TH AIS-AisPlay 2",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@inspace-nut-1.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    },
-    {
-      "name": "TH AIS-AisPlay 3",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@inspace-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    },
-    {
-      "name": "TH AIS-AisPlay 4",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@inspace-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    },
-    {
-      "name": "TH AIS-AisPlay 5",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@bangmod-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    },
-    {
-      "name": "TH AIS-AisPlay 6",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    },
-    {
-      "name": "TH AIS-AisPlay 7",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    },
-    {
-      "name": "TH AIS-AisPlay 8",
-      "content": "vless://30c00c88-4b18-4a24-9b89-51a10570d4e0@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    }
-  ]
+   "files": [  
+
+
+{
+         "name": "01. SG-(Dtac & True)-VIP-1",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/Sg1.ovpn"
+      },
+
+
+{
+         "name": "02. TH-(Dtac)-VIP-2",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/11-TH_Vip%20Dtac%20line.ovpn"
+      },
+
+
+{
+         "name": "12. TH-(Ais)-VIP-12",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-VIP-20-AIS.ovpn"
+      },
+
+{
+         "name": "03. TH-(Dtac & True)-VIP-3",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH-GAME-10-03.ovpn"
+      },
+
+{
+         "name": "04. SG-(Dtac & True)-VIP-4",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/05-SG_Vip%20Dtac%20line.ovpn"
+      },
+{
+         "name": "05. SG-(Dtac & True)-VIP-5",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/06-SG_Vip%20Dtac%20line.ovpn"
+      },
+
+{
+         "name": "06. 🇹🇭TH-( Dtac+True ) VIP-06",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/TH.Game.NEWS.VIP%3D01.ovpn"
+      },
+
+{
+         "name": "07. TH-(Ais)-VIP-7",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/TH-11-VIP-AIS.ovpn"
+      },
+
+{
+         "name": "08. TH-(Dtac & True)-VIP-8",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/CSK%20VIP-14.ovpn"
+      },
+{
+         "name": "09. 🇹🇭Thailand ( Dtac+True ) VIP-09",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/server15.ovpn"
+      },
+{
+         "name": "10. 🇹🇭Thailand ( Dtac+True ) VIP-10",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/18-TH_Vip%20Dtac%20shopee.ovpn"
+      },
+{
+         "name": "11. 🇹🇭Thailand ( Dtac+True ) VIP-11",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/VPN-PLUS-ADMOB/main/19-TH_Vip%20Dtac%20shopee.ovpn"
+      }
+
+   ],
+"message":"🚀 Update version - 30 \n• 🇸🇬Singapore-4(free)\n• 🇹🇭Thailand-2(🎮) \n•Thank for using our app🙆 ",
+   "title":"Do you want to update?",
+   "version": 30
+}
